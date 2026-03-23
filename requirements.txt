@@ -1,0 +1,9 @@
+# moodify dependencies
+# python 3.10+ recommended (i was on 3.11 when building this)
+
+tensorflow>=2.15.0    # tried pytorch first but keras felt easier for this
+numpy>=1.24.0         
+
+# not in here but you'll want these if you hook up the spotify api:
+# requests
+# python-dotenv       (for storing your client id/secret)
