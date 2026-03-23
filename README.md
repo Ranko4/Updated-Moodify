@@ -1,5 +1,7 @@
 # Moodify
 
+**[LIVE DEMO]("https://updated-moodify-changed.vercel.app/")**
+
 Classifies the mood of music using a neural network trained on Spotify audio features. Feed it a track's danceability, energy, valence, tempo, etc. and it'll tell you if the vibe is happy, sad, energetic, calm, or angry - then recommend similar tracks through the Spotify API.
 
 Started this as a project for Codeology at Berkeley. The original idea was just "what if I could auto-sort my playlists by mood" and now here we are.
